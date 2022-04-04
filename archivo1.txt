@@ -1,7 +1,3 @@
 chanchito feliz
 sdd
-<<<<<<< HEAD
 s
-=======
-rama c
->>>>>>> ramaC
